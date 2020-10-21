@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/excel-validator/static/css/main.9a88ee37.chunk.css",
+    "main.js": "/excel-validator/static/js/main.06ea50d8.chunk.js",
+    "main.js.map": "/excel-validator/static/js/main.06ea50d8.chunk.js.map",
+    "runtime-main.js": "/excel-validator/static/js/runtime-main.4adaba59.js",
+    "runtime-main.js.map": "/excel-validator/static/js/runtime-main.4adaba59.js.map",
+    "static/css/2.306baa07.chunk.css": "/excel-validator/static/css/2.306baa07.chunk.css",
+    "static/js/2.2acbfa4a.chunk.js": "/excel-validator/static/js/2.2acbfa4a.chunk.js",
+    "static/js/2.2acbfa4a.chunk.js.map": "/excel-validator/static/js/2.2acbfa4a.chunk.js.map",
+    "index.html": "/excel-validator/index.html",
+    "precache-manifest.604bf1316d4e7b85591eaff66851b6ed.js": "/excel-validator/precache-manifest.604bf1316d4e7b85591eaff66851b6ed.js",
+    "service-worker.js": "/excel-validator/service-worker.js",
+    "static/css/2.306baa07.chunk.css.map": "/excel-validator/static/css/2.306baa07.chunk.css.map",
+    "static/css/main.9a88ee37.chunk.css.map": "/excel-validator/static/css/main.9a88ee37.chunk.css.map",
+    "static/js/2.2acbfa4a.chunk.js.LICENSE.txt": "/excel-validator/static/js/2.2acbfa4a.chunk.js.LICENSE.txt",
+    "static/media/jsoneditor.css": "/excel-validator/static/media/jsoneditor-icons.2b9b4872.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4adaba59.js",
+    "static/css/2.306baa07.chunk.css",
+    "static/js/2.2acbfa4a.chunk.js",
+    "static/css/main.9a88ee37.chunk.css",
+    "static/js/main.06ea50d8.chunk.js"
+  ]
+}
